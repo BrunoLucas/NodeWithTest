@@ -1,0 +1,29 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "teste de node js",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoLucas/NodeWithTest.git"
+  },
+  "author": "Bruno Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoLucas/NodeWithTest/issues"
+  },
+  "homepage": "https://github.com/BrunoLucas/NodeWithTest#readme"
+}
